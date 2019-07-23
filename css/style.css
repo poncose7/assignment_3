@@ -1,0 +1,600 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	font-family: 'Open Sans', sans-serif;
+}
+h3{
+
+text-transform: uppercase;
+
+margin-bottom: 10px;
+
+font-size: 14px;
+
+color: #fbfbfb;
+
+margin-top: 10px;
+
+margin-bottom: 5px;
+
+font-size: 14px;
+}
+h1{
+}
+ 
+.navigation .btn{
+	
+}
+ button{
+	    background-color: #FB2056;
+	    color: #fff;
+	    padding: 10px 10px;
+	    border-radius: 19px;
+	    border: 0;
+	    letter-spacing: 4px;
+	    margin-top: 5px;
+}
+button a{
+    color: #fff;
+    background: #FB2056;
+    font-size: 10px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.contant-box2 .btn{
+	
+margin-top: 270px;
+	
+text-align: center;
+	
+margin-left: -397px;
+	
+/* width: 21%; */
+}
+.info {
+  border-color: #2196F3;
+  
+}
+.border-box{
+	    border: 1px solid;
+	    border-radius: 50px;
+	    margin: 1px 0;
+}
+
+.info:hover {
+  background: #2196F3;
+  color: white;
+}
+
+h4{
+
+margin-top: 20px;
+
+border: 1px solid black;
+
+display: inline-block;
+
+text-align: center;
+}
+.learn{text-align: center;}
+.learn a{
+
+text-decoration: none;
+
+display: block;
+
+margin-top: 20px;
+
+
+border-width: 0px 0px;
+}
+.learn a:hover{
+	
+}
+.color .btn{
+    margin-top: 6px;
+}
+p{
+
+font-size: 17px;
+
+
+overflow: hidden;
+
+text-align: center;
+}
+img{
+	width: 100%;
+
+	height: 100%;
+ 
+}
+img:hover{
+	opacity: 0.5;
+}
+.main-box{
+
+width: 100%;
+
+height: 480px;
+
+background-color: #c351c387;
+
+
+
+margin: auto;
+
+margin-top: 20px;
+
+overflow: hidden;
+}
+.contant-box{
+
+width: 100%;
+
+height: 100%;
+
+overflow: hidden;
+
+margin-top: 2px;
+
+background-image: url(../images/a7.jpg);
+background-size: cover;
+
+}
+.explore span{display: block;margin-left: -163px;}
+header{
+
+text-align: center;
+
+margin-bottom: 20px;
+
+
+margin: auto;
+}
+nav{
+
+display: inline;
+}
+.navigation span{
+	text-decoration: none;
+	color: #fff;
+	padding: 3px 0px;
+	border: 2px solid white;
+	transition: 0.6s ease;
+	border-radius: 15px;
+}
+.navigation span a:hover{
+transition: 0.5s;
+background-color: red;
+color:black;
+}
+strong{
+	
+display: list-item;
+	
+color: #fff;
+}
+.color{
+	
+}
+.navigation{
+	
+width: 84%;
+	
+margin: auto;
+	
+padding: 5px;
+	
+list-style-type: none;
+}
+nav header h1{
+
+}
+nav header span{
+
+}
+.advice{
+
+}
+.color{
+
+}
+.color a{
+	 color: #FB2056;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 3px;
+    text-decoration: none;
+}
+.contant-box2{
+	
+width: 100%;
+	
+height: 560px;
+	
+text-align: center;
+	
+overflow: hidden;
+	
+margin-top: 30px;
+	
+margin: auto;
+	
+background-size: cover;
+}
+.advice h2{
+
+text-align: center;
+
+font-size: 17px;
+
+margin-top: 20px;
+
+color: #a09b9b;
+}
+.events{
+
+width: 80%;
+
+overflow: hidden;
+
+margin: auto;
+
+margin-bottom: 0px;
+
+margin-top: 30px;
+
+height: 365px;
+}
+.contant-box h1{margin-top: 5px;display: block;color: #fff;}
+.contant-box ul{
+
+width: 57%;
+
+display: inline-block;
+
+float: right;
+
+font-size: 20px;
+
+margin-top: -28px;
+
+text-decoration: none;
+
+color: #fff;
+}
+.seebetch{
+	background-image: url(../images/bbb.jpg);
+	height: 100%;
+	max-width: 100%;
+	background-size: 100% 100%;
+	margin-top: 20px;
+}
+.contant-box ul li{
+	
+list-style-type: none;
+	
+display: inline-block;
+	
+margin: 7px 6px;
+}
+.contant-box ul li span{
+}
+
+.contant-box ul li a{
+	
+text-decoration: none;
+	
+color: #fff;
+	
+/* border: 2px solid #f3ecec00; */
+	
+color: #fff;
+	
+padding: 5px 4px;
+	
+font-size: 19px;
+	
+display: block;
+}
+.contant-box ul li a:hover{
+	
+background-color: #fb2056;
+	
+color: #ffffff;
+	
+transition: 0.5s;
+}
+.contant{
+
+height: 50%;
+
+margin-top: 10%;
+
+text-align: center;
+
+margin-left: 200px;
+}
+.contant h1{
+	
+font-size: 63px;
+	
+color: #fbfbfb;
+}
+.advice{
+
+width: 100%;
+
+margin: auto;
+
+height: 100px;
+
+text-align: center;
+
+background-color: #efeaea;
+
+padding: 20px;
+}
+.advice p{
+
+color: #5f5d5d;
+}
+.advice p span{
+
+}
+.feature1 .toor{
+
+padding: 5px;
+
+width: 50%;
+
+float: left;
+
+padding: 5px;
+}
+.explore{
+
+width: 35%;
+
+float: right;
+
+margin: 100px;
+
+margin-top: 150px;
+}
+.feature1{
+
+width: 100%;
+
+float: left;
+
+margin-top: 30px;
+
+overflow: hidden;
+}
+
+.feature{
+
+max-width: 100%;
+
+width: 65%;
+
+float: right;
+
+padding: 5Px;
+
+overflow: hidden;
+
+margin-left: 30px;
+
+height: 100%;
+}
+.heading{
+
+text-align: center;
+
+margin-top: 10px;
+
+max-width: 100%;
+
+width: 50%;
+
+float: left;
+
+padding: 5px;
+
+}
+.heading h3{
+	color: black;
+}
+section .header{
+	
+width: 50%;
+	
+background-color: #e1e1ea;
+	
+overflow: hidden;
+	
+height: 32%;
+
+margin: 5px;
+	
+float: left;
+	
+max-width: 100%;
+}
+.explore{
+
+}
+..learn{
+
+}
+.learn a{
+
+}
+.learn a:hover{
+
+}
+.explore h1{
+
+float: left;
+
+display: block;
+
+font-size: 63px;
+
+color: #fff;
+
+margin-bottom: 10px;
+
+overflow: hidden;
+}
+.explore p{
+
+float: left;
+
+text-align: justify;
+
+color: #fff;
+}
+.title{
+	
+margin-top: 0px;
+	
+width: 80%;
+	
+margin: auto;
+	
+height: 50%;
+
+}
+.place{
+
+width: 50%;
+
+height: 45%;
+
+float: left;
+
+padding: 5px;
+
+background-size: 100% 100%;
+}
+.place1{width: 50%;height: 55%;float: right;padding: 5px;background-size: 100% 100%;}
+img{
+	
+max-width: 100%;
+	
+width: 100%;
+	
+height: 100%;
+	
+margin: auto;
+}
+.header{
+	
+width: 100%;
+	
+float: left;
+
+height: 135px;
+	
+overflow: hidden;
+}
+.another-events{
+	
+width: 80%;
+	
+margin: auto;
+	
+overflow: hidden;
+	
+height: 500px;
+	
+margin-top: 30px;
+}
+.another-events .toor{
+
+width: 30%;
+
+float: left;
+
+text-align: justify;
+
+margin-top: 30px;
+}
+.another-events h1{
+
+text-transform: uppercase;
+
+text-align: justify;
+
+margin-bottom: 20px;
+}
+.another-events p{
+	
+text-align: justify;
+}
+.feature .place2{
+
+width: 50%;
+
+height: 55%;
+
+float: left;
+
+padding: 5px;
+
+background-size: 100% 100%;
+}
+.place3{
+	
+height: 45%;
+	
+width: 50%;
+	
+float: right;
+	
+padding: 5px;
+	
+background-size: 100% 100%;
+}
+.footer{width: 100%;background-color: black;margin: auto;margin-top: 30px;height: 85px;overflow: hidden;}
+.footer p{
+
+color: #fff;
+
+text-align: center;
+
+margin-top: 20px;
+}
+.footer h5{
+	
+color: #fff;
+	
+text-align: center;
+	
+margin-top: 20px;
+}
+
+address{
+
+color: #fff;
+
+text-align: center;
+
+margin-top: 10px;
+}
+
+.seebetch {
+    background-image: url(../images/a8.jpg);
+    height: 100%;
+    max-width: 100%;
+    background-size: 100% 100%;
+    margin-top: 20px;
+}
